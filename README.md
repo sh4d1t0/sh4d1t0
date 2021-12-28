@@ -14,7 +14,7 @@ Me gusta la programación y el diseño gráfico, siempre estoy aprendiendo cosas
 ### Tecnologias que utilizo
 
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
-![iOS](http://img.shields.io/badge/-Apple-black?style=flat-square&logo=iOS&logoColor=ffffff)
+![iOS](http://img.shields.io/badge/-Apple-black?style=flat-square&logo=apple&logoColor=ffffff)
 ![Docker](https://img.shields.io/badge/-Docker-black?style=flat-square&logo=docker)
 ![NGINX](http://img.shields.io/badge/-NGINX-269539?style=flat-square&logo=nginx&logoColor=ffffff)
 
@@ -46,6 +46,8 @@ Me gusta la programación y el diseño gráfico, siempre estoy aprendiendo cosas
 ![IntelliJ IDEA](http://img.shields.io/badge/-IntelliJ%20IDEA-000000?style=flat-square&logo=intellij-idea&logoColor=ffffff)
 ![VS Code](http://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=ffffff)
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
+![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
+![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
 
 ![MacOS](http://img.shields.io/badge/-Apple-000000?style=flat-square&logo=macos&logoColor=ffffff)
 ![Arch](http://img.shields.io/badge/-ArchLinux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)
