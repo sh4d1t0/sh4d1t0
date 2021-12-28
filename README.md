@@ -1,7 +1,20 @@
 ### ✨ Mis Redes Sociales 👋 ✨
 
-[![forthebadge](https://img.shields.io/badge/instagram-follow%20me-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/shadito/)
-[![forthebadge](https://img.shields.io/badge/linkedin-follow%20me-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/shadito/)
+_Personal_:
+
+[![forthebadge](https://img.shields.io/badge/instagram-sigueme-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/shadito/)
+[![forthebadge](https://img.shields.io/badge/linkedin-sigueme-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/shadito/)
+[![forthebadge](https://img.shields.io/badge/twitter-sigueme-00acee.svg?&style=flat&logo=twitter)](https://twitter.com/shaditokun)
+
+_Hobby_:
+
+[![forthebadge](https://img.shields.io/badge/twitch-sigueme-6441a5.svg?&style=flat&logo=twitch)](https://www.twitch.tv/shaditogamer)
+[![forthebadge](https://img.shields.io/badge/instagram-sigueme-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/shaditogamer/)
+[![forthebadge](https://img.shields.io/badge/facebook-sigueme-3b5998.svg?&style=flat&logo=facebook)](https://www.facebook.com/ShaditoGamer/)
+[![forthebadge](https://img.shields.io/badge/twitter-sigueme-00acee.svg?&style=flat&logo=twitter)](https://twitter.com/shaditogamer)
+[![forthebadge](https://img.shields.io/badge/discord-sigueme-5865F2.svg?&style=flat&logo=discord)](https://discord.com/invite/EkDSeJDWwf)
+
+
 
 ## 😎 Acerca de mi
 
