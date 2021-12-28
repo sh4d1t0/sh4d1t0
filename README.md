@@ -1,26 +1,20 @@
-### ✨ Mis Redes Sociales 👋 ✨
+## 😎 Acerca de mi
 
-_Personal_:
+Me gusta la programación y el diseño gráfico, siempre estoy aprendiendo cosas nuevas asi que siempre estoy tomando cursos, leyendo articulos, me gusta mucho leer novelas de ciencia ficcion, ver peliculas Sci-Fi, terror, y me gusta mucho la astronomia.
 
+#### RRSS Personal
 [![forthebadge](https://img.shields.io/badge/instagram-sigueme-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/shadito/)
 [![forthebadge](https://img.shields.io/badge/linkedin-sigueme-%230077B5.svg?&style=flat&logo=linkedin)](https://www.linkedin.com/in/shadito/)
 [![forthebadge](https://img.shields.io/badge/twitter-sigueme-00acee.svg?&style=flat&logo=twitter)](https://twitter.com/shaditokun)
 
-_Hobby_:
-
+#### RRSS Hobby
 [![forthebadge](https://img.shields.io/badge/twitch-sigueme-6441a5.svg?&style=flat&logo=twitch)](https://www.twitch.tv/shaditogamer)
 [![forthebadge](https://img.shields.io/badge/instagram-sigueme-%23E4405F.svg?&style=flat&logo=instagram)](https://www.instagram.com/shaditogamer/)
 [![forthebadge](https://img.shields.io/badge/facebook-sigueme-3b5998.svg?&style=flat&logo=facebook)](https://www.facebook.com/ShaditoGamer/)
 [![forthebadge](https://img.shields.io/badge/twitter-sigueme-00acee.svg?&style=flat&logo=twitter)](https://twitter.com/shaditogamer)
 [![forthebadge](https://img.shields.io/badge/discord-sigueme-5865F2.svg?&style=flat&logo=discord)](https://discord.com/invite/EkDSeJDWwf)
 
-
-
-## 😎 Acerca de mi
-
-Me gusta la programación y el diseño gráfico, siempre estoy aprendiendo cosas nuevas asi que siempre estoy tomando cursos, leyendo articulos, me gusta mucho leer novelas de ciencia ficcion, ver peliculas Sci-Fi, terror, y me gusta mucho la astronomia.
-
-### Tecnologias que utilizo
+## ⚡ Tecnologias que utilizo
 
 ![Android](http://img.shields.io/badge/-Android-3DDC84?style=flat-square&logo=android&logoColor=ffffff)
 ![iOS](http://img.shields.io/badge/-Apple-black?style=flat-square&logo=apple&logoColor=ffffff)
@@ -33,7 +27,11 @@ Me gusta la programación y el diseño gráfico, siempre estoy aprendiendo cosas
 ![JavaScript](https://img.shields.io/badge/-JavaScript-%23F7DF1C?style=flat-square&logo=javascript&logoColor=000000&labelColor=%23F7DF1C&color=%23FFCE5A)
 ![TypeScript](https://img.shields.io/badge/-TypeScript-007acc?style=flat-square&logo=typescript&logoColor=000000&labelColor=007acc&color=007acc)
 ![React](https://img.shields.io/badge/-React-%23282C34?style=flat-square&logo=react)
+[![Vue.js](https://img.shields.io/badge/-Vuejs-black?style=flat-square&logo=vue.js&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+[![Angular](https://img.shields.io/badge/-Angular-DD0031?style=flat-square&logo=angular&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
+
 ![Sass](https://img.shields.io/badge/-Sass-%23CC6699?style=flat-square&logo=sass&logoColor=ffffff)
+[![Bootstrap](https://img.shields.io/badge/-Bootstrap-563D7C?style=flat-square&logo=bootstrap&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 ![Adobe Photoshop](http://img.shields.io/badge/-Abode%20Photoshop-26C9FF?style=flat-square&logo=adobe-photoshop&logoColor=ffffff)
 
 #### Backend
@@ -57,6 +55,7 @@ Me gusta la programación y el diseño gráfico, siempre estoy aprendiendo cosas
 ![Android Studio](http://img.shields.io/badge/-Android%20Studio-3DDC84?style=flat-square&logo=android-studio&logoColor=ffffff)
 ![Swift](https://img.shields.io/badge/Swift-FA7343?style=flat-square&logo=Swift&logoColor=white)
 ![Xcode](https://img.shields.io/badge/Xcode-1575F9?style=flat-square&logo=Xcode&logoColor=white)
+[![Flutter](https://img.shields.io/badge/-Flutter-02569B?style=flat-square&logo=flutter&link=https://github.com/LuizCarlosAbbott/)](https://github.com/LuizCarlosAbbott/)
 
 ![MacOS](http://img.shields.io/badge/-Apple-000000?style=flat-square&logo=macos&logoColor=ffffff)
 ![Arch](http://img.shields.io/badge/-ArchLinux-1793d1?style=flat-square&logo=archlinux&logoColor=ffffff)
